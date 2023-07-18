@@ -1,0 +1,24 @@
+.heading
+{
+    font-size: 27px;
+    font-family:"DancingScript";
+    width: 100%;
+    margin: 0px;
+}
+.note
+{
+    font-family:"Great Vibes";
+    font-size: 23px;
+    color: black;
+}
+body
+{
+    background-size: cover;
+}
+canvas
+{
+   border: 5px solid whitesmoke;
+   border-radius: 20px;
+   box-shadow: 6px 6px 6px grey;
+   margin-left: 250px;
+}
